@@ -1,8 +1,7 @@
-### Hey there 👋! I'm Vamsi
+### Hey!!! 👋 I'm Vamsi
 
 ## I'm Full-stack Javascript Engineer with a special focus in React, Typescript, GraphQL!
 
-- 🔭 I’m currently working as a Fullstack Engineer at [Planned][website]!
 - 🥅 2020 Goals: Master Typescript, Learn Django, Build a blog site and write a blog post every week
 
 ### Connect with me:
