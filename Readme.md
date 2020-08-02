@@ -1,4 +1,4 @@
-### Hey!!! 👋 I'm Vamsi
+### Hey!👋  I'm Vamsi
 
 ## I'm Full-stack Javascript Engineer with a special interests in React, Typescript and GraphQL!
 
