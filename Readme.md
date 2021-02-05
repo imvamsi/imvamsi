@@ -2,7 +2,7 @@
 
 ## I'm Full-stack Javascript Engineer with a special interests in React, Typescript and GraphQL!
 
-- 🥅   2020 Goals: Master Typescript, Learn Django, Build a blog site and write a blog post every week
+- 🥅   2021 Goals: Master Typescript, Learn Django, Build a blog site and write a blog post every week
 
 ### Connect with me:
 
